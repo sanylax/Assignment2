@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1634012675070" clover="3.2.0">
+  <project timestamp="1634012675071" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="14" coveredconditionals="12" methods="2" coveredmethods="2" elements="35" coveredelements="33" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="templater.js" path="/Users/sanylax/LDEV/CSE183/Assignment2/templater.js">
+      <metrics statements="19" coveredstatements="19" conditionals="14" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="32" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="7" type="stmt"/>
+      <line num="37" count="7" type="stmt"/>
+      <line num="40" count="7" type="stmt"/>
+      <line num="42" count="7" type="stmt"/>
+      <line num="43" count="15" type="cond" truecount="1" falsecount="1"/>
+      <line num="44" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="13" type="stmt"/>
+      <line num="48" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="80" count="6" type="stmt"/>
+      <line num="85" count="1" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
